@@ -1,0 +1,9 @@
+{
+    "dockerFile": "Dockerfile",
+    "remoteUser": "admin",
+    "updateRemoteUserUID": false,
+    "overrideCommand": false,
+    "runArgs": [
+        "--runtime=sysbox-runc"
+    ]
+}
